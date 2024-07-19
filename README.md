@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditee</h1>
-<h3 align="center">A passionate software developer from India currently 4 year B. Tech Student</h3>
+<h3 align="center">I'm Aditee , a 4 year B. Tech Student in Information Technology . I have keen Knowledge of Web Development, Android Development and I'm passionate about data structures and algorithms and solving problems .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitaditee&label=Profile%20views&color=0e75b6&style=flat" alt="gitaditee" /> </p>
 
