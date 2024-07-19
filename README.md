@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **aditeesingh03@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1za1uxfE9km_GW5K42YtPFkW63IJpOOT3/view](https://drive.google.com/file/d/1za1uxfE9km_GW5K42YtPFkW63IJpOOT3/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditee-7a380923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditee-7a380923a/" height="30" width="40" /></a>
