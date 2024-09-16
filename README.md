@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects of website development and android devlopment**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-adee.netlify.app/](https://portfolio-adee.netlify.app/)
+- 👨‍💻 All of my projects are available at https://saditee-portfolio.netlify.app/
 
 - 💬 Ask me about **react, designing, bootstrap ,flask**
 
