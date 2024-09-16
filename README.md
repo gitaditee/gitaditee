@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aditeesingh03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1za1uxfE9km_GW5K42YtPFkW63IJpOOT3/view](https://drive.google.com/file/d/1za1uxfE9km_GW5K42YtPFkW63IJpOOT3/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1bDbaQo0Z03BG9-s6nsgV0la7-vMYjEn6/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
